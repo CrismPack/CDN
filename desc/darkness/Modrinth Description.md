@@ -3,7 +3,6 @@
 # True Darkness Refabricated
 
 This is a fork of the [True Darkness](https://modrinth.com/mod/true-darkness) mod by [GrondagTheBarbarian](https://modrinth.com/user/grondag), maintaining it for Fabric 1.20.1 and beyond.
-If you are looking for a Forge fork, see [here](https://modrinth.com/mod/true-darkness-forge-updated-fork).
 
 *GrondagTheBarbarian is the original author and all credit belongs to him.*
 
