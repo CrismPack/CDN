@@ -1,7 +1,6 @@
 ![Moonphases](https://github.com/CrismPack/CDN/blob/main/desc/darkness/True%20Darkness%20Moonphases.png?raw=true)
 
-
-# **True Darkness Fabricated**
+# **True Darkness Refabricated**
 
 This is a fork of the [True Darkness](https://modrinth.com/mod/true-darkness) mod by [GrondagTheBarbarian](https://modrinth.com/user/grondag), maintaining it for Fabric 1.20.1 and beyond.
 If you are looking for a Forge fork, see [here](https://www.curseforge.com/minecraft/mc-mods/true-darkness-forge-updated-fork).
@@ -10,14 +9,11 @@ If you are looking for a Forge fork, see [here](https://www.curseforge.com/minec
 
 ![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)
 
-
-
 ## **Description:**
 
 Moody brightness not dark enough? Do you want moonless nights and unlit caverns to be pitch black? This mod is for you!
 
 In addition to maintaining the mod for newer versions, this version also fixes compatibility issues with [Distant Horizons](https://modrinth.com/mod/distanthorizons).
-
 
 ## **Dependencies:**
 
