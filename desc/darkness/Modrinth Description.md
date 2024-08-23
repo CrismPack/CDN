@@ -1,4 +1,4 @@
-![Moonphases](https://github.com/CrismPack/CDN/blob/main/desc/darkness/True%20Darkness%20Moonphases%20MR.png?raw=true)
+![Moonphases](https://raw.githubusercontent.com/CrismPack/CDN/main/desc/darkness/True%20Darkness%20Moonphases%20MR.png)
 
 # True Darkness Refabricated
 
