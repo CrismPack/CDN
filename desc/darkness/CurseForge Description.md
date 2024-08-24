@@ -12,15 +12,15 @@ This is a fork of the [True Darkness](https://modrinth.com/mod/true-darkness) mo
 
 Moody brightness not dark enough? Do you want moonless nights and unlit caverns to be pitch black? This mod is for you!
 
-In addition to maintaining the mod for newer versions, this version also fixes compatibility issues with [Distant Horizons](https://modrinth.com/mod/distanthorizons).
+In addition to maintaining the mod for newer versions, this fork also fixes compatibility issues with [Distant Horizons](https://modrinth.com/mod/distanthorizons) and adds some server-side functionality, such as config syncing.
 
 ## **Dependencies:**
 
-[![cloth-config-api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cloth-config-api_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) [![fabric-api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+[<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/darkness/owo-lib.png" alt="owo-lib" width="167"/>](https://modrinth.com/mod/owo-lib) [<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/darkness/fabric-api.png" alt="fabric-api" width="167"/>](https://modrinth.com/mod/fabric-api)
 
 Optional: [Mod Menu](https://modrinth.com/mod/modmenu)
 
-*Note that the mod itself is only required client-side and does not have any functionality when installed on a server.*
+*Note that the mod itself and its effect is only required client-side to function, though it does have some additional functionality when installed on a server.*
 
 ## **Need help?**
 
