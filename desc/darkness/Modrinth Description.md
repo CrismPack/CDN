@@ -2,9 +2,9 @@
 
 # True Darkness Refabricated
 
-This is a fork of the [True Darkness](https://modrinth.com/mod/true-darkness) mod by [GrondagTheBarbarian](https://modrinth.com/user/grondag), maintaining it for Fabric 1.20.1 and beyond.
+This is a fork of the [True Darkness](https://modrinth.com/mod/true-darkness) mod by [Grondag](https://modrinth.com/user/grondag), maintaining it for Fabric 1.20.1 and beyond.
 
-*GrondagTheBarbarian is the original author and all credit belongs to him.*
+*Grondag is the original author and all credit belongs to him.*
 
 ![fabric](https://raw.githubusercontent.com/CrismPack/CDN/main/desc/darkness/fabric_vector.svg) 
 
