@@ -28,4 +28,12 @@ Optional: [Mod Menu](https://modrinth.com/mod/modmenu)
 
 ## **Mod trailer:**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I6YI5qJIQU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I6YI5qJIQU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+## **FAQ:**
+
+*Question: Does this mod work with shaders?*
+- Answer: No it doesn't. This mod achieves the darkening by modifying the vanilla lightmap, which shaders typically disregard entirely. If you are looking for a similar experience with shaders, ComplementaryShaders happens to include options to make caves completely dark as well as having moon-phases affect lighting.
+
+*Question: Does this mod need to be on the server too?*
+- Answer: Nope. The visual effects of this mod is entirely client-side. However, installing it on the server will unlock additional functionality like config synchronization.
